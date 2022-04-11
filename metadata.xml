@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Locked Starting Items</name>
+    <directory>locked starting items</directory>
+    <id>2774145099</id>
+    <description>A mod that locks the starting items of each character, [spoiler]like with the tainted characters[/spoiler].
+
+I feel like locking the start items is much better, because you don't have to throw away the (mostly useless in the later course) start item, which makes a character more individual :)
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2775981002]Locked Starting Trinkets[/url]
+
+[url=https://moddingofisaac.com/mod/3765/locked-starting-items]Modding of Isaac[/url]</description>
+    <version>1.5</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Active Items"/>
+    <tag id="Tweaks"/>
+</metadata>
