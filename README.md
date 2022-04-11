@@ -1,4 +1,4 @@
-# BoI-Locked-Starting-Items [Rep]
+# Binding of Isaac - Locked Starting Items [Rep]
 
 ### A mod that locks the starting items of each character, like with the tainted characters.
 
